@@ -1,0 +1,28 @@
+_repo: A-magyar-n-pk-lt-s-gy-ngyeiA-legszebb-n-pdalok-gy-jtem-nye_40392
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benedek, Elek
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '39589'
+    url: http://www.gutenberg.org/2009/agents/39589
+    wikipedia: http://hu.wikipedia.org/wiki/Benedek_Elek
+description: ''
+gutenberg_issued: '2012-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40392'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Hungary'
+- !lcc 'PH'
+- !lcsh 'Folk songs, Hungarian'
+title: 'A magyar népköltés gyöngyei: A legszebb népdalok gyüjteménye'
+url: http://www.gutenberg.org/ebooks/40392
